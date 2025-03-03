@@ -1,1 +1,2 @@
 # networking-and-sockets---C
+C counterpart of the python version of the netwrking-and-sockets projects. Currently still uploading the rest of the C code; will change this readme when all of it is uploaded. Some issues and bugs may still be in this C code; currently still working on debugging that. 
